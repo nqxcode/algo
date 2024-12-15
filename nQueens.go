@@ -1,5 +1,8 @@
 package main
 
+// Backtracking
+// https://leetcode.com/problems/n-queens/
+
 import "fmt"
 
 const Queen = '✓'
